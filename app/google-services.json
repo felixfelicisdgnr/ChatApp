@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58703173009",
+    "project_id": "mychatapp-68009",
+    "storage_bucket": "mychatapp-68009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58703173009:android:d81ff82a00a85e7f92f630",
+        "android_client_info": {
+          "package_name": "com.doganur.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58703173009-eq4sdqtuv105qs0aatfcbo79dks41ghq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHi0SCzdrbrRO1R3P8TkzQ_ORk-k6cI2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58703173009-eq4sdqtuv105qs0aatfcbo79dks41ghq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
